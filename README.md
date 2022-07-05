@@ -60,9 +60,9 @@ Platform
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 💻 Developer environment ([**dotfiles**](https://github.com/ziap/dotfiles))
+<img alt="Workflow" align="right" width="400px" src="https://github.com/ziap/dotfiles/blob/master/screenshot.png"/>
 
-<img alt="" align="right" width="400px" src="https://github.com/ziap/dotfiles/blob/master/screenshot.png"/>
+### 💻 Developer environment ([**dotfiles**](https://github.com/ziap/dotfiles))
 
 - **OS**: [Fedora Linux](https://getfedora.org/)
 - **WM**: [sway](https://swaywm.org/)
@@ -84,8 +84,9 @@ Platform
 
 ### 📊 My stats
 
-![GH stats](https://github-readme-stats.vercel.app/api?username=ziap)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziap&layout=compact)
+<img alt="GH Stats" width="300px" src="https://github-readme-stats.vercel.app/api?username=ziap"/>
+
+<img alt="Top Languages" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziap&layout=compact"/>
 
 ![View count](https://komarev.com/ghpvc/?username=ziap)
