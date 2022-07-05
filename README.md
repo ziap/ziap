@@ -114,7 +114,7 @@
          .';:cccccccccccc:;,.            ---------- 
       .;cccccccccccccccccccccc;.         PC: HP EliteBook 1050 G1 
     .:cccccccccccccccccccccccccc:.       OS: Fedora Linux
-  .;ccccccccccccc;.:dddl:.;ccccccc;.     WM sway
+  .;ccccccccccccc;.:dddl:.;ccccccc;.     WM: sway
  .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Shell: zsh
 .:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Prompt: starship
 ,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Browser: firefox
