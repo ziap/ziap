@@ -62,12 +62,18 @@ Platform
 
 ### 💻 Developer environment ([**dotfiles**](https://github.com/ziap/dotfiles))
 
+<div align="justify">
+
+<img alt="" align="right" width="400px" src="workflow.png"/>
+
 - **OS**: [Fedora Linux](https://getfedora.org/)
 - **WM**: [sway](https://swaywm.org/)
 - **Shell**: [zsh](https://www.zsh.org/)
 - **Editor**: [neovim](https://neovim.io/)
 - **Browser**: [firefox](https://www.mozilla.org/en-US/firefox/)
 - **Colorscheme**: [gruvbox](https://github.com/morhetz/gruvbox)
+
+</div>
 
 ### 🧪 Things I'm learning/wants to work with
 
