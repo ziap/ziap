@@ -109,12 +109,30 @@
 
 ## 💻 Developer environment ([**dotfiles**](https://github.com/ziap/dotfiles))
 
-- **OS**: [Fedora Linux](https://getfedora.org/)
-- **WM**: [sway](https://swaywm.org/)
-- **Shell**: [zsh](https://www.zsh.org/)
-- **Editor**: [neovim](https://neovim.io/)
-- **Browser**: [firefox](https://www.mozilla.org/en-US/firefox/)
-- **Colorscheme**: [gruvbox](https://github.com/morhetz/gruvbox)
+```
+             .',;::::;,'.                
+         .';:cccccccccccc:;,.            ---------- 
+      .;cccccccccccccccccccccc;.         PC: HP EliteBook 1050 G1 
+    .:cccccccccccccccccccccccccc:.       OS: Fedora Linux
+  .;ccccccccccccc;.:dddl:.;ccccccc;.     WM sway
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Shell: zsh
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Prompt: starship
+,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Browser: firefox
+:cccccccccccccc;MMM.;cccccccccccccccc:   Terminal: kitty
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   WM: sway 
+cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;   Editor: neovim
+ccccc:XM0';cccc;MMM.;cccccccccccccccc'   Resolution: 1920x1080
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;    
+ccccc;0MNc.ccc.xMMd:ccccccccccccccc;     
+cccccc;dNMWXXXWM0::cccccccccccccc:,      
+cccccccc;.:odl:.;cccccccccccccc:,.       
+:cccccccccccccccccccccccccccc:'.         
+.:cccccccccccccccccccccc:;,..            
+  '::cccccccccccccc::;,.                 
+
+~ 
+❯ 
+```
 
 ## 🧪 Things I'm learning/wanting to work with
 
