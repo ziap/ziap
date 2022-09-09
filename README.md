@@ -9,7 +9,7 @@
 ## ✨ About me
 
  - I like to code things from scratch and optimize my workflow.
- - I can write wep apps, .NET apps, mobile app and make games with VanillaJS canvas, Pygame or Unity.
+ - I can build websites, write CLI apps, develop simple games, and architect simple ML models.
  - I really enjoy low level coding, optimizing my code, working with images and graphics, and building user interfaces.
 
 ## 🧰 Things I work with
