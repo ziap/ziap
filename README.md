@@ -16,7 +16,7 @@
 
 I use C++ for computational heavy stuffs, Python for web scraping and data science, Rust for web servers and interactive applications, and JavaScript for front-end web development.
 
-I daily-drive Linux with a WM and do most of my work on the terminal. Make sure to check out my [dotfiles](https://github.com/ziap/dotfiles).
+I daily-drive Linux with a window manager and do most of my work in the terminal. Make sure to check out my [dotfiles](https://github.com/ziap/dotfiles).
 
 ## 💻 Projects
 
