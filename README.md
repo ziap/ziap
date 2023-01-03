@@ -10,7 +10,7 @@
 
 [2048 AI](https://github.com/ziap/2048-ai): A very efficient [expectimax](https://en.wikipedia.org/wiki/Expectiminimax) 2048 player written in C++ and compiled to WebAssembly.
 
-[Image themer](https://github.com/ziap/image-themer): A web application that theme images to a certain color palette using [Floyd–Steinberg dithering](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering).
+[Repalette](https://github.com/ziap/repalette): A web application and CLI utility that theme images to a certain color palette with dithering. Written in C and compiled to raw WebAssembly for maximum performance on the web.
 
 [Infinite minesweeper](https://github.com/ziap/infinite-minesweeper): A minesweeper game on an infinite board, written in JavaScript. Not very optimized code so I'll rewrite it in the future.
 
