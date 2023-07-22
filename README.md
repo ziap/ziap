@@ -12,9 +12,9 @@
 
 [Repalette](https://github.com/ziap/repalette): A web application and CLI utility that theme images to a certain color palette with dithering. Written in C and compiled to raw WebAssembly for maximum performance on the web.
 
-[Infinite minesweeper](https://github.com/ziap/infinite-minesweeper): A minesweeper game on an infinite board, written in JavaScript. Not very optimized code so I'll rewrite it in the future.
+[Ultimate tic-tac-toe](https://github.com/ziap/uttt): A browser-based Ultimate tic-tac-toe game with a powerful Monte Carlo tree search AI adversary.
 
-[Snake game](https://github.com/ziap/snake-game): My first game written in JavaScript and Canvas. It's a very polished snake game with complete mobile support, animations and lots of quality of life features.
+[Infinite minesweeper](https://github.com/ziap/infinite-minesweeper): A minesweeper game on an infinite board, written in JavaScript. Not very optimized code so I'll rewrite it in the future.
 
 Many other small projects and more to come.
 
