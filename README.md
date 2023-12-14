@@ -1,8 +1,10 @@
 ## About me
 
- I like to code because it's fun and I can make things.
- 
- I'm good at data manipulation and performance optimization.
+I can:
+- Develop application on many platform
+- Train machine learning models
+- Optimize for performance
+- Quickly learn new things
  
  I'm a hardcore (not good, just dedicated) terminal and vim user. Check out my [dotfiles](https://github.com/ziap/dotfiles).
 
